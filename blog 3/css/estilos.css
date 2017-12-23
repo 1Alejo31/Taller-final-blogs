@@ -1,0 +1,74 @@
+/*Estilos fondo de la pagina*/
+body
+{
+  background-image: url( "../img/fn.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+img
+{
+  border-radius: 10px;
+}
+/*Estilos Cabecera*/
+header
+{
+  background-color: #2196f3;
+  height: 5rem;
+}
+#cabecera,
+{
+  height: 7rem;
+}
+
+#logo
+{
+  border-radius: 10px;
+  float: left;
+  width: 100%;
+  margin-top: 10%;
+}
+.contenedor-botones
+{
+  margin-top: 3%;
+  margin-bottom: 9%;
+}
+h5
+{
+  color: #F0F8FF;
+}
+#boton2
+{
+  margin-top  : 5px;
+}
+/*Estilos de seccion*/
+a
+{
+  color: 	#F0F8FF;
+}
+#redes-sociales
+{
+  height: 11rem;
+}
+
+li
+{
+  padding: 20%;
+}
+#tx, #autor
+{
+  background-color: 	#F0F8FF;
+}
+#autor2
+{
+  text-align: center;
+  background-color: 	#F0F8FF;
+}
+
+#formulario
+{
+  background-color: #1de9b6;
+}
+#enviar
+{
+  text-align: center;
+}

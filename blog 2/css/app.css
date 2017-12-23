@@ -1,0 +1,80 @@
+/*fondo*/
+
+body
+{
+  background-image: url( "../img/fn.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 210%;
+
+}
+
+/*estilos de la cabecera*/
+#busc
+{
+  margin-top: 5%;
+}
+#cabesera
+{
+  height: 80px;
+
+}
+/*estilos seccion 1*/
+#contenedor
+{
+  background:rgba(0, 0, 0, 0.6);
+  border-radius: 10px;
+}
+
+#busc, textarea
+{
+  border-radius: 10px;
+}
+#historial
+{
+  border-radius: 10px;
+  background-color: #1a0900;
+}
+#galeria
+{
+  margin-top: 2%;
+}
+
+#contenedor1
+{
+  background-color: #fff2e6;
+  border-radius: 10px;
+  margin-top: 1%;
+  margin-left: 3%;
+  margin-right: 1%;
+}
+
+/*estilos seccion 2*/
+
+
+#contenedor2
+{
+  background-color: #fff2e6;
+  border-radius: 10px;
+  margin-top: 1%;
+  margin-right: 3.5%;
+}
+
+#contenedor3
+{
+  background-color: #fff2e6;
+  border-radius: 10px;
+  margin-top: 1%;
+  margin-right: 5.5%;
+}
+#comentarios
+{
+  border-radius: 10px;
+}
+@media screen and (max-width: 550px)
+{
+  #contenedor3
+  {
+    margin-right: 0%;
+
+  }
+}

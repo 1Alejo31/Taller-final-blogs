@@ -1,0 +1,47 @@
+body
+{
+  font-size: 1.8vh;
+}
+/*Estilos de la cabecera*/
+#Cabecera
+{
+  background-color: black;
+}
+#nav_header
+{
+  margin-top: 5%;
+  text-align: center;
+}
+/*barra de navegacion*/
+#navegacion
+{
+  text-align: center;
+}
+.btn
+{
+  margin-top: 0.7%;
+  font-size: 30px;
+
+}
+/*Estilos de contenido*/
+#imag1
+{
+  text-align: center;
+  margin-top: 9%;
+}
+#imag2
+{
+  margin-bottom: 1%;
+
+}
+textarea
+{
+  border-radius: 10px;
+  padding: 2%;
+  width: 100%;
+}
+
+#Busqueda
+{
+  margin-top: 5%;
+}
